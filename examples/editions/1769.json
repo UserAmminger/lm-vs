@@ -121,12 +121,12 @@
   },
   "1769_028_1": {
     "basedon": "1756_028_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_028_1.ly",
     "has_include": "1756/1756_028_1-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_034_1": {
@@ -381,12 +381,12 @@
   },
   "1769_041_1": {
     "basedon": "1756_041_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_041_1.ly",
     "has_include": false,
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_041_2": {
@@ -761,12 +761,12 @@
   },
   "1769_064_6": {
     "basedon": "1756_062_3c",
-    "relation": "equal",
+    "relation": "variants",
     "has_file": "1756/1756_062_3c.ly",
     "has_include": "1756/1756_062_3c-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_064_7": {
@@ -1031,7 +1031,7 @@
   },
   "1769_074_6": {
     "basedon": "1756_072_5",
-    "relation": "equal",
+    "relation": "variants",
     "has_file": "1756/1756_072_5.ly",
     "has_include": "1756/1756_072_5-include.ily",
     "entered": false,
@@ -1401,12 +1401,12 @@
   },
   "1769_083_3": {
     "basedon": "1756_081_3a",
-    "relation": "equal",
+    "relation": "variants",
     "has_file": "1756/1756_081_3a.ly",
     "has_include": "1756/1756_081_3a-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_083_4": {
@@ -1441,12 +1441,12 @@
   },
   "1769_084_3": {
     "basedon": "1756_082_3",
-    "relation": "equal",
+    "relation": "variants",
     "has_file": "1756/1756_082_3.ly",
     "has_include": "1756/1756_082_3-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_084_4": {
@@ -1571,12 +1571,12 @@
   },
   "1769_087_4": {
     "basedon": "1756_085_4",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_085_4.ly",
     "has_include": "1756/1756_085_4-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_088_1": {
@@ -1641,12 +1641,12 @@
   },
   "1769_090_1": {
     "basedon": "1756_088_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_088_1.ly",
     "has_include": false,
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_092_1": {
@@ -1671,12 +1671,12 @@
   },
   "1769_095_1": {
     "basedon": "1756_093_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_093_1.ly",
     "has_include": "1756/1756_093_1-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_096_1": {
@@ -1691,22 +1691,22 @@
   },
   "1769_097_1": {
     "basedon": "1756_095_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_095_1.ly",
     "has_include": false,
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_098_1": {
     "basedon": "1756_096_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_096_1.ly",
     "has_include": false,
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_098_2": {
@@ -1811,12 +1811,12 @@
   },
   "1769_112_1": {
     "basedon": "1756_111_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_111_1.ly",
     "has_include": "1756/1756_111_1-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_114_1": {
@@ -1841,12 +1841,12 @@
   },
   "1769_115_2": {
     "basedon": "1756_114_2",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_114_2.ly",
     "has_include": "1756/1756_114_2-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_116_1": {
@@ -2471,12 +2471,12 @@
   },
   "1769_135_6": {
     "basedon": "1756_134_4",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_134_4.ly",
     "has_include": "1756/1756_134_4-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_135_7": {
@@ -2681,12 +2681,12 @@
   },
   "1769_139_6": {
     "basedon": "1756_138_3",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_138_3.ly",
     "has_include": "1756/1756_138_3-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_139_7": {
@@ -2711,12 +2711,12 @@
   },
   "1769_139_9": {
     "basedon": "1756_138_5b",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_138_5b.ly",
     "has_include": "1756/1756_138_5b-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_140_1": {
@@ -3871,12 +3871,12 @@
   },
   "1769_181_1": {
     "basedon": "1756_179_2",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_179_2.ly",
     "has_include": false,
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_181_2": {
@@ -3931,12 +3931,12 @@
   },
   "1769_182_4": {
     "basedon": "1756_181_2",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_181_2.ly",
     "has_include": "1756/1756_181_2-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_183_1": {
@@ -4141,12 +4141,12 @@
   },
   "1769_190_1": {
     "basedon": "1756_188_3",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_188_3.ly",
     "has_include": "1756/1756_188_3-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_190_2": {
@@ -4261,32 +4261,32 @@
   },
   "1769_195_3": {
     "basedon": "1756_194_2b",
-    "relation": "corrections",
+    "relation": "equal",
     "has_file": "1756/1756_194_2b.ly",
     "has_include": "1756/1756_194_2b-include.ily",
     "entered": true,
     "review": false,
-    "accepted": false,
+    "accepted": true,
     "rejected": false
   },
   "1769_196_1": {
     "basedon": "1756_194_3a",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_194_3a.ly",
     "has_include": "1756/1756_194_3a-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_196_2": {
     "basedon": "1756_194_3b",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_194_3b.ly",
     "has_include": "1756/1756_194_3b-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_196_3": {
@@ -4471,12 +4471,12 @@
   },
   "1769_199_3": {
     "basedon": "1756_198_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_198_1.ly",
     "has_include": "1756/1756_198_1-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_199_4": {
@@ -4531,12 +4531,12 @@
   },
   "1769_202_2": {
     "basedon": "1756_201_2",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_201_2.ly",
     "has_include": "1756/1756_201_2-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_201_3": {
@@ -5021,32 +5021,32 @@
   },
   "1769_216_1": {
     "basedon": "1756_214_2a",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_214_2a.ly",
     "has_include": "1756/1756_214_2a-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_216_2": {
     "basedon": "1756_214_2b",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_214_2b.ly",
     "has_include": "1756/1756_214_2b-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_216_3": {
     "basedon": "1756_214_2c",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_214_2c.ly",
     "has_include": "1756/1756_214_2c-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_217_1": {
@@ -5201,12 +5201,12 @@
   },
   "1769_222_3": {
     "basedon": "1756_219_2b",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_219_2b.ly",
     "has_include": "1756/1756_219_2b-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_222_4": {
@@ -5221,12 +5221,12 @@
   },
   "1769_223_1": {
     "basedon": "1756_220_1a",
-    "relation": "equal",
+    "relation": "variants",
     "has_file": "1756/1756_220_1a.ly",
     "has_include": "1756/1756_220_1a-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_223_2": {
@@ -5251,12 +5251,12 @@
   },
   "1769_223_4": {
     "basedon": "1756_220_2",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_220_2.ly",
     "has_include": "1756/1756_220_2-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_224_1": {
@@ -5651,12 +5651,12 @@
   },
   "1769_235_4": {
     "basedon": "1756_231_3",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_231_3.ly",
     "has_include": "1756/1756_231_3-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_236_1": {
@@ -6131,7 +6131,7 @@
   },
   "1769_249_1": {
     "basedon": "1756_244_1",
-    "relation": "variants",
+    "relation": "corrections",
     "has_file": "1756/1756_244_1.ly",
     "has_include": false,
     "entered": false,
@@ -6141,7 +6141,7 @@
   },
   "1769_249_2": {
     "basedon": "1756_244_2",
-    "relation": "variants",
+    "relation": "corrections",
     "has_file": "1756/1756_244_2.ly",
     "has_include": false,
     "entered": false,
@@ -6191,12 +6191,12 @@
   },
   "1769_251_4": {
     "basedon": "1756_246_2b",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_246_2b.ly",
     "has_include": "1756/1756_246_2b-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_252_1": {
@@ -6511,12 +6511,12 @@
   },
   "1769_264_3": {
     "basedon": "1756_260_3",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_260_3.ly",
     "has_include": "1756/1756_260_3-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "1769_265_1": {
@@ -6571,12 +6571,12 @@
   },
   "1769_1769_tabelle": {
     "basedon": "1756_tabelle_1",
-    "relation": "equal",
+    "relation": "corrections",
     "has_file": "1756/1756_tabelle_1.ly",
     "has_include": "1756/1756_tabelle_1-include.ily",
-    "entered": true,
+    "entered": false,
     "review": false,
-    "accepted": true,
+    "accepted": false,
     "rejected": false
   },
   "removed": [
